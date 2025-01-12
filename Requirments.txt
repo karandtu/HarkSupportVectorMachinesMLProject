@@ -1,0 +1,9 @@
+#Experimentation Steps that have been covered in this project:
+
+1.Train with Linear Kernel: Run svm_training.py to see how SVM separates linearly separable data.
+2.Experiment with Non-Linear Kernels: Run svm_kernel.py to see how SVM handles non-linear data using an RBF kernel.
+3.Evaluate Performance: Run svm_evaluation.py to measure accuracy and confusion matrix for your model.
+4.Tune Parameters: Experiment with:
+
+C: C is a Regularization parameter (higher values = stricter margin).
+gamma: It controls the influence of points in RBF kernel.
